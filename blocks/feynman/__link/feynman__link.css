@@ -8,9 +8,5 @@
   font-style: normal;
   text-decoration: none;
   color: #2f80ed;
-}
-  
-.feynman__link:hover {
-  opacity: 0.5;
-  transition: 1.5s;
+  z-index: 2;
 }
